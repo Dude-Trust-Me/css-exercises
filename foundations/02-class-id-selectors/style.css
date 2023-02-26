@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(255,192,203);
+    font-family: 'Verdana', "DejaVu Sans", 'sans-serif';
+}
+.odd-addition{
+    font-size: 24px;
+}
+#second-element{
+    color: rgb(0,0,250);
+    font-size: 36px;
+}
+
+
+#fourth-element{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
