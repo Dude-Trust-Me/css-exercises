@@ -32,7 +32,6 @@ body {
   display: flex;
   flex-direction: column;
 }
-
 button {
   padding: 8px 16px;
 }
@@ -45,7 +44,7 @@ button {
   flex-direction: column;
 }
 
-a {
+a{
   color: #666;
   text-decoration: none;
 }
